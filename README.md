@@ -1,0 +1,2 @@
+# staircase
+Hackerrank staircase challenge
